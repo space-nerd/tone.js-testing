@@ -1,0 +1,19 @@
+{
+  "name": "MicroAmbitiousIntegers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  },
+  "dependencies": {
+    "tone": "^14.7.77",
+    "ts-node": "^10.3.1"
+  }
+}
